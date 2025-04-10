@@ -1,0 +1,3 @@
+[submodule "themes/Gruvbox-GTK-Theme"]
+	path = themes/Gruvbox-GTK-Theme
+	url = https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme
